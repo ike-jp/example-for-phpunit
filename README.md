@@ -4,7 +4,21 @@ Example for minimal PHPUnit and Mockery
 Installation
 -----------------------------------
 
+### Ubuntu
+
++ sudo apt-get install php5-cli
++ sudo apt-get install composer
++ composer install
+
 ### Windows
+
++ XAMPPインストール
++ Composerをインストーラでインストール
++ composer install
+
+
+PHPUnit + Mockery導入手順
+-----------------------------------
 
 + Composerをインストーラでインストールする
 + composer.jsonをプロジェクトディレクトリに作成する
